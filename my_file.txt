@@ -1,0 +1,6 @@
+This is the first line.
+Here's some data: 42
+And a string to mix things up.
+Appending some more lines...
+Numbers: 10, 20, 30
+The end.
